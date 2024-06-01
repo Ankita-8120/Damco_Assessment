@@ -1,10 +1,1 @@
-Task 1:
-1) All the test Cases is Written in TestCases tab.
-2) All the Bad Requirement is written in BadRequirment tab.
-3) The Highlighted yellow color Test Cases will represent the assumption Result.
-4) Test Data is written with every test cases under Test data column.
 
-Task 2:
-1) I have first given the Estimation of Previous task (Task 1).
-2) Then I have estimated the Incremental feature.
-3) Then I have combined the Estimation for Task 1 and task 2.
